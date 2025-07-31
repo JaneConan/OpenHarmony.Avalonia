@@ -15,3 +15,11 @@
 	path = ThirdParty/Semi.Avalonia
 	url = https://github.com/WCKYWCKF/Semi.Avalonia
 	branch = oh
+[submodule "ThirdParty/AtomUI.ControlGallery"]
+	path = ThirdParty/AtomUI.ControlGallery
+	url = https://github.com/JaneConan/AtomUI.ControlGallery
+	branch = oh
+[submodule "ThirdParty/AtomUI"]
+	path = ThirdParty/AtomUI
+	url = https://github.com/JaneConan/AtomUI
+	branch = oh
